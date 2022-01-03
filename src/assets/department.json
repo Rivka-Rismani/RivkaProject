@@ -1,0 +1,10 @@
+
+    {
+        "department":[
+            { "DepartmentId": 1, "DepartmentName": "מחלקה 1", "ParentId": 0},
+            { "DepartmentId": 2, "DepartmentName": "מחלקה 2", "ParentId": 0 },
+            { "DepartmentId": 3, "DepartmentName": "מחלקה 3", "ParentId": 1 },
+            { "DepartmentId": 5, "DepartmentName": "מחלקה 5", "ParentId": 1 },
+            { "DepartmentId": 4, "DepartmentName": "מחלקה 4", "ParentId": 2 }
+        ]  
+    }

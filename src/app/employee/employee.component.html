@@ -1,0 +1,14 @@
+<h1>{{EmployeeName}}</h1>
+
+<p>חפש עובדים</p>
+<div>
+  <mat-form-field appearance="fill">
+    <mat-label>בחר עובד</mat-label>
+    <mat-select [(ngModel)]="selectedValue" name="e" (selectionChange)="chooseEmployee()">
+        <mat-option *ngFor="let e of DATA" [value]="e.EmployeeId">
+            {{e.EmployeeName}}
+            <img [src]="e.EmployeePicture" [alt]="e.EmployeeName" width="30px" height="30px"/>
+          </mat-option>
+    </mat-select>
+  </mat-form-field>
+</div>

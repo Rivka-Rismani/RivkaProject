@@ -1,0 +1,16 @@
+
+
+
+
+
+{
+    "Employee":[
+    { "EmployeeName": "rivka","EmployeeId":1,"EmployeePicture": "https://www.photo-art.co.il/wp-content/uploads/2015/06/BY1A65881.jpg" },
+    { "EmployeeName": "tali", "EmployeeId":2,"EmployeePicture": "https://sugarcakes4u.co.il/wp-content/uploads/2018/03/%D7%96%D7%94%D7%91-%D7%9C%D7%91%D7%91%D7%95%D7%AA-%D7%9E%D7%A0%D7%A6%D7%A0%D7%A5.jpg" },
+    { "EmployeeName": "miri","EmployeeId":3, "EmployeePicture": "https://ae01.alicdn.com/kf/HTB1LuvWXhz1gK0jSZSgq6yvwpXaO/NeoBack.jpg_Q90.jpg_.webp" },
+    { "EmployeeName": "noa", "EmployeeId":4,"EmployeePicture": "https://sugarcakes4u.co.il/wp-content/uploads/2018/06/%D7%96%D7%A8%D7%A7%D7%95%D7%A8%D7%99%D7%9D-%D7%9B%D7%97%D7%95%D7%9C.jpg" },
+    {"EmployeeName": "tamar","EmployeeId":5, "EmployeePicture": "https://denikates.co.il/content/uploads/2017/07/FB_IMG_1500567606682-566x395.jpg" }
+    ]
+
+   
+}
